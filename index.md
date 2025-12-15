@@ -1,11 +1,11 @@
-# Your Name
+# YUXUAN GENG
 
 **MSc in Data Science | Aspiring Data Analyst**  
 Monash University  
 📍 Expected Graduation: Dec 2026  
-✉️ your_email@example.com  
-GitHub: https://github.com/yourusername  
-LinkedIn: (optional)
+✉️ ygen0018@gmail.com  
+GitHub: https://github.com/ygen0018 
+
 
 ---
 
